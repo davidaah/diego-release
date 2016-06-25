@@ -556,7 +556,7 @@ ephemeral_disk:
 
 ### Viewing Results
 
-Diego benchmark results can be found [here](http://console.aws.amazon.com/s3/home?bucket=diego-benchmarks).
+Diego benchmark results can be found [here](http://diego-benchmarks.s3.amazonaws.com/).
 
 ### Metrics
 
